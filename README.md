@@ -1,4 +1,12 @@
 ### Hi there 👋
+# Bharadwaj Aaditya Ghali's GitHub Profile
+
+## Contact Me
+
+- Email: ba.aaditya03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bharadwajaaditya/
+
+Feel free to explore my projects and connect with me on LinkedIn or via email for any inquiries or collaborations!
 
 <!--
 **Aadigha-git/Aadigha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
