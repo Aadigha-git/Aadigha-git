@@ -19,7 +19,6 @@ I like being at the forefront of innovation, learning and experimenting to creat
 
 - 🔭 I’m currently working on myself and this page. 
 - 🌱 I’m currently learning how to orchestrate data pipelines on cloud 
-- 📫 How to reach me: nikxherrera (Twitter, Linkedin, Instagram) 
 - 😄 Pronouns: He/Him 
 
 
