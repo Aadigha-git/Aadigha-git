@@ -1,6 +1,5 @@
 ### Hi there 👋, Welcome!
 
-![I am Bharadwaj Ghali ](https://github.com/Aadigha-git/Aadigha-git/blob/main/1723644396518.jpg)
 
 Hello!👋🏻 My name is **Bharadwaj Ghali**. I am pursuing my graduate studies in data science and machine learning at UC Irvine. 🏫
 
